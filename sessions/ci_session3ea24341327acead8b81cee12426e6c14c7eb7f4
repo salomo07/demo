@@ -1,0 +1,129 @@
+__ci_last_regenerate|i:1617822520;dataSidebar|s:2499:"<aside class="main-sidebar">
+    <section class="sidebar">
+      <ul class="sidebar-menu">
+        <li class="header">MAIN NAVIGATION</li>
+        <!-- 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: dataMenu</p>
+<p>Filename: template/sidebar.php</p>
+<p>Line Number: 8</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\samplelocator\application\views\template\sidebar.php<br />
+			Line: 8<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\samplelocator\application\controllers\Login.php<br />
+			Line: 41<br />
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\samplelocator\application\controllers\Login.php<br />
+			Line: 25<br />
+			Function: sign_in2			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\samplelocator\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: template/sidebar.php</p>
+<p>Line Number: 8</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\samplelocator\application\views\template\sidebar.php<br />
+			Line: 8<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\samplelocator\application\controllers\Login.php<br />
+			Line: 41<br />
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\samplelocator\application\controllers\Login.php<br />
+			Line: 25<br />
+			Function: sign_in2			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\samplelocator\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div> -->
+        <li><a href="Item"><i class="fa fa-archive"></i> <span>Item</span></a></li>
+        <li><a href="Customer"><i class="fa fa-user"></i> <span>Customer</span></a></li>
+        <li><a href="Sales"><i class="fa fa-cart-plus"></i> <span>Sales</span></a></li>
+        <li><a href="Home/signout"><i class="fa fa-sign-out"></i> <span>Sign Out</span></a></li>
+
+      </ul>
+    </section>
+  </aside>";dataUser|a:5:{s:8:"Username";s:4:"Demo";s:2:"Ip";s:3:"::1";s:8:"Waktu_In";s:19:"2021-04-07 19:47:36";s:4:"Host";s:9:"RejoicePC";s:6:"Logged";i:1;}
